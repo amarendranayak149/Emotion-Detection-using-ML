@@ -39,9 +39,9 @@ cd emotion-detection
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended) 🏗️
 ```sh
-python -m venv venv
+python -m venv myenv
 source venv/bin/activate   # On Mac/Linux 🍏🐧
-venv\Scripts\activate      # On Windows 🖥️
+myenv\Scripts\activate      # On Windows 🖥️
 ```
 
 ### 3️⃣ Install Dependencies 📦
@@ -73,9 +73,10 @@ This project is developed under **Innomatics Research Labs**. 🏆
 
 ## 📜 License
 This project is **open-source** under the **MIT License** 📝.
+
+## 📞 Contact
+## 👨‍💻 Developer: Amarendra Nayak
+## 📧 Email: toamarendranayak@gmail.com
+## 📞 Phone: +91-7008631814
+## 🌐 LinkedIn: https://www.linkedin.com/in/amarendranayak/
 ```
-
----
-
-Now, your README is **engaging, structured, and visually appealing** with emojis! 🚀😃  
-Let me know if you need further modifications! 🔥
