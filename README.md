@@ -1,4 +1,4 @@
-# Emotion-Detection-using-ML
+# Emotion_Detection_using_ML
 This Emotion Detection Model analyzes text and predicts the emotion behind the sentence. It uses Natural Language Processing (NLP) and a Naïve Bayes classifier trained on labeled emotions. Simply enter a sentence, and the model will detect whether it expresses happiness, sadness, anger, surprise, or other emotions!
 ---
 
@@ -11,7 +11,7 @@ This Emotion Detection Model analyzes text and predicts the emotion behind the s
 This project is an **Emotion Detection System** that classifies facial expressions into categories such as **Angry, Happy, Neutral, Sad, Surprised, Fearful, and Disgusted** using **Machine Learning (ML)** models. The application is built using **Python, Streamlit, and Scikit-Learn**, and it utilizes a trained ML model for emotion classification.
 
 ## ✨ Features
-✅ **Facial Expression Classification** 🎭  
+✅ **Emotion Detection from Text Classification** 🎭  
 ✅ **Interactive Web App** 🌐 (Built using **Streamlit**)  
 ✅ **Pre-trained ML Model** 🤖 (`emotion_model.pkl`)  
 ✅ **Dataset Used** 📊 (`combined_emotion.csv`)  
